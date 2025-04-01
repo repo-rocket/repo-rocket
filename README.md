@@ -1,5 +1,11 @@
 Welcome to Repo-Rocket! 🚀
 
+## Features
+
+- Create and clone GitHub repositories
+- Fetch and download issues
+- Edit, commit, and push changes and more .......
+
 
 Detailed Review of RepoRocket: Benefits, Features, and Use Cases
 RepoRocket: Streamline Your GitHub Workflow with Ease and Style

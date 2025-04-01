@@ -26,3 +26,5 @@ Standout Features of RepoRocket
     • File Editing and Commit Tracking: Edit files within your repos and view detailed commit histories to track changes over time. Each repo’s details are saved in a <repo_name>_details.txt file for easy reference. 
     • Git Commands Reference Window: A built-in window provides quick access to common Git commands, making it a handy learning tool for beginners or a quick refresher for pros. 
     • Customizable GUI with In-App Logo: The app features a 300x100 pixel in-app logo (default: logo.png or reporocket-logo.png) that adds a professional touch to the interface. The black-and-yellow theme is both functional and visually striking.
+
+Visit our website: [Repo-Rocket.com](https://repo-rocket.com?utm_source=github&utm_medium=readme&utm_campaign=repo-rocket)

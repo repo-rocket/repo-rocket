@@ -1,0 +1,19 @@
+RepoTinker - Repository Details:
+Name: repo-rocket
+URL: https://github.com/repo-rocket/repo-rocket
+Branch Name: main
+Access Token: ***HIDDEN*** (Original: 40 chars)
+Description: N/A
+Template: empty
+Private: False
+SSH Key Path: Not set
+SSH Key Content: Not set
+Clone Command: git clone https://github.com/repo-rocket/repo-rocket.git
+Remote Name: origin
+Username: Not set
+Email: Not set
+Last Commit Hash: N/A
+Notes: 
+GitHub Created URL: https://github.com/repo-rocket/repo-rocket
+Local Directory: /home/cliff/website-repo
+Git Status: Your new directory is a Git repo, synced with GitHub—edit, commit, and push as needed!
